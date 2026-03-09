@@ -1,0 +1,5 @@
+{
+  "name": "FIRST90",
+  "description": "A GTM diagnostic engine that analyses any business and outputs a structured 90-day operational brief.",
+  "requestFramePermissions": []
+}
